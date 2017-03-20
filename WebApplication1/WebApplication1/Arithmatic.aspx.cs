@@ -18,6 +18,8 @@ namespace WebApplication1
         protected void add_Click(object sender, EventArgs e)
         {
             Response.Write(int.Parse(TextBox1.Text) + int.Parse(TextBox2.Text));
+            Response.Write(int.Parse(TextBox1.Text) - int.Parse(TextBox2.Text));
+
         }
     }
 }
