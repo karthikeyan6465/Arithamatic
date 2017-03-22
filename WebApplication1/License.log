@@ -1,0 +1,157 @@
+    ======  ======
+    Time:20-03-2017 21:22:07
+    Title: Initiate log
+    Message: 
+    Time:20-03-2017 21:22:07
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:20-03-2017 21:22:07
+    Title: Requesting EVT
+    Message: EVTP
+    Time:20-03-2017 21:22:07
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: TRL MODE
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DS LEFT30
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DT MARK PASSED30.00:00:00
+    Time:20-03-2017 21:22:08
+    Title: Access to the path 'C:\ProgramData\Telerik\Hash.lic' is denied.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:20-03-2017 21:22:11
+    Title: Requested registry access is not allowed.
+    Message:    at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS START
+    Time:20-03-2017 21:22:11
+    Title: LIC EXP_KEY
+    Message: NULL
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    devenv.exe Information: 0 : 20-03-2017 15:52:26:  - TokenCache: Deserialized 2 items to token cache.
+    ======  ======
+    Time:20-03-2017 21:22:07
+    Title: Initiate log
+    Message: 
+    Time:20-03-2017 21:22:07
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:20-03-2017 21:22:07
+    Title: Requesting EVT
+    Message: EVTP
+    Time:20-03-2017 21:22:07
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: TRL MODE
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DS LEFT30
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DT MARK PASSED30.00:00:00
+    Time:20-03-2017 21:22:08
+    Title: Access to the path 'C:\ProgramData\Telerik\Hash.lic' is denied.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:20-03-2017 21:22:11
+    Title: Requested registry access is not allowed.
+    Message:    at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS START
+    Time:20-03-2017 21:22:11
+    Title: LIC EXP_KEY
+    Message: NULL
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    devenv.exe Information: 0 : 20-03-2017 15:52:26:  - TokenCache: Deserialized 2 items to token cache.
+    ======  ======
+    Time:20-03-2017 21:22:07
+    Title: Initiate log
+    Message: 
+    Time:20-03-2017 21:22:07
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:20-03-2017 21:22:07
+    Title: Requesting EVT
+    Message: EVTP
+    Time:20-03-2017 21:22:07
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: TRL MODE
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DS LEFT30
+    Time:20-03-2017 21:22:07
+    Title: LICENSER
+    Message: DT MARK PASSED30.00:00:00
+    Time:20-03-2017 21:22:08
+    Title: Access to the path 'C:\ProgramData\Telerik\Hash.lic' is denied.
+    Message:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Telerik.Licensing.Licenser.ReadHashPass()
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:20-03-2017 21:22:11
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:20-03-2017 21:22:11
+    Title: Requested registry access is not allowed.
+    Message:    at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS START
+    Time:20-03-2017 21:22:11
+    Title: LIC EXP_KEY
+    Message: NULL
+    Time:20-03-2017 21:22:11
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    devenv.exe Information: 0 : 20-03-2017 15:52:26:  - TokenCache: Deserialized 2 items to token cache.
+

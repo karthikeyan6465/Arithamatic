@@ -19,6 +19,9 @@ namespace WebApplication1
         {
             Response.Write(int.Parse(TextBox1.Text) + int.Parse(TextBox2.Text));
             Response.Write(int.Parse(TextBox1.Text) - int.Parse(TextBox2.Text));
+            Response.Write(int.Parse(TextBox1.Text) / int.Parse(TextBox2.Text));
+            Response.Write(int.Parse(TextBox1.Text) * int.Parse(TextBox2.Text));
+
 
         }
     }
